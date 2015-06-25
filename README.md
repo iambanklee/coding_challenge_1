@@ -87,11 +87,11 @@ Example:
 			supplier: {
 				id: 54
 			},
-			date: 12-16-2014,
+			date: '12-16-2014',
 			total_order_value: {
-				local_currency: "USD",
-				local_value: "1,023.00",
-				value: "1,234.56"
+				local_currency: 'USD',
+				local_value: '1,023.00',
+				value: '1,234.56'
 			}
 		}
 	}
